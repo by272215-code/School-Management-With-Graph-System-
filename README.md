@@ -34,6 +34,9 @@ python project.py
 - Constructor Chaining
 - Data Visualization
 
+📸 Sample Visualization <img width="797" height="683" alt="Screenshot 2026-04-10 151349" src="https://github.com/user-attachments/assets/3a674a99-9740-4a01-8a45-c874731b2329" />
+
+
 📌 Conclusion
 
 This project helps in understanding how OOP concepts work in real-world scenarios and
