@@ -34,7 +34,9 @@ python project.py
 - Constructor Chaining
 - Data Visualization
 
-📸 Sample Visualization <img width="797" height="683" alt="Screenshot 2026-04-10 151349" src="https://github.com/user-attachments/assets/3a674a99-9740-4a01-8a45-c874731b2329" />
+📸 Sample Visualization 
+<img width="794" height="682" alt="Screenshot 2026-04-10 151042" src="https://github.com/user-attachments/assets/3d5e4081-69c7-4033-afad-f7dcbde4a75a" />
+
 
 
 📌 Conclusion
